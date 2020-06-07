@@ -23,3 +23,11 @@ function divide(numberOne, numberTwo) {
 function multiply(numberOne, numberTwo) {
   return(numberOne * numberTwo)
 }
+
+function increment(number) {
+  return(+=number)
+}
+
+function decrement(number) {
+  return(-=number)
+}
