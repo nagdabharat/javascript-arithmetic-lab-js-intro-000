@@ -25,9 +25,9 @@ function multiply(numberOne, numberTwo) {
 }
 
 function increment(number) {
-  return(+=number)
+  return(number++)
 }
 
 function decrement(number) {
-  return(-=number)
+  return(number--)
 }
