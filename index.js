@@ -7,3 +7,8 @@ function preserveDecimal(string)  {
   var a = parseFloat(string);
   return(a);
 }
+
+function add(numberOne, numberTwo) {
+  return(numberOne + numberTwo)
+}
+
